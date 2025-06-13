@@ -1,5 +1,6 @@
 
  ![WebPic](https://github.com/user-attachments/assets/d2aa9981-2f9a-4400-897f-94da50580d21)
+ 
  🦁Pine City Zoo Website
 
 Welcome to the official website for **Pine City Zoo** — your digital window into the wild!  
