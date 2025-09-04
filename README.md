@@ -8,75 +8,99 @@ From majestic animals to exciting attractions, Pine City Zoo offers a blend of e
 
 ---
 
- 🐾 Animals You Can Discover
+<div id="top">
 
-Explore a variety of amazing creatures up close:
+<!-- HEADER STYLE: CLASSIC -->
+<div align="center">
 
-- 🐘 **Elephants**  
-- 🦒 **Giraffes**  
-- 🐨 **Koalas**  
-- 🐒 **Monkeys**  
-- 🐼 **Pandas**  
-- 🦁 **Lions**  
-- 🦌 **Gemsboks**  
-- 🦍 **Gorillas**  
-- 🐗 **Warthogs**
 
----
+# PINECITYZOO
 
- 🎡 Attractions & Visitor Experiences
+<em>Inspiring Wildlife Education Through Interactive Exploration</em>
 
-Make your visit unforgettable by exploring these attractions:
+<!-- BADGES -->
+<img src="https://img.shields.io/github/last-commit/Tsakila/PineCityZoo?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/Tsakila/PineCityZoo?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/Tsakila/PineCityZoo?style=flat&color=0080ff" alt="repo-language-count">
 
-- 🎭 **Amphitheatre**: Catch an educational and entertaining event.
-- 🐜 **Insect House**: Creepy crawlies of every kind you can imagine!
-- 🧗 **Monkey Trail**: Take a walk or ride through this challenging obstacle course.
-- ☕ **Wild Things Coffee Shop**: Enjoy a cuppa or a dessert here.
-- 🌳 **Lost Forest**: Relax and have a picnic under the trees by the lake.
-- 🍕 **Mo's Pizza**: Scrumptious pizzas and pastas for the whole family.
-- 🍽️ **Dine @ The Zoo**: Enjoy gourmet meals in a serene outdoor setting.
+<em>Built with the tools and technologies:</em>
+
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
+
+</div>
+<br>
 
 ---
 
- 🌐 About This Project
+## Table of Contents
 
-This is a **web-based project** developed to showcase the offerings of **Pine City Zoo**.  
-It is an interactive platform where visitors can learn more about the zoo's animals and attractions before or during their visit.
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Testing](#testing)
 
 ---
 
- 🚀 Getting Started
+## Overview
 
-To clone and run this project locally, follow these steps:
+PineCityZoo is a versatile developer tool that facilitates the creation of interactive, educational websites centered around wildlife and zoo attractions. Its modular architecture enables developers to easily organize and display detailed content, from animal profiles to visitor amenities, with rich visual and navigational elements.
 
-```bash
- Step 1: Clone the repository
-git clone https://github.com/Tsakila/PineCityZoo.git
+**Why PineCityZoo?**
 
- Step 2: Navigate into the project directory
-cd PineCityZoo
+This project aims to streamline the development of engaging, content-rich wildlife and zoo websites. The core features include:
 
- Step 3: Open with your favorite code editor or launch a local server if needed
+- **🦓️** **Visual Content Integration:** Seamlessly embed images, maps, and multimedia to enhance user engagement.
+- **🌿️** **Structured Data Management:** Organize animal profiles, attractions, and amenities for easy updates and maintenance.
+- **🦒️** **Interactive Navigation:** Support intuitive links and menus that guide visitors through diverse content sections.
+- **🌍️** **Educational Focus:** Deliver accessible, informative content about wildlife and geographic locations.
+- **🦁️** **Customizable Templates:** Enable quick adaptation to different zoo or park branding and content needs.
 
-🤝 Contributions  Welcome!
-We love collaboration!
-Everyone is welcome to contribute suggestions, features, improvements, or bug fixes.
+---
 
-To contribute:
+## Getting Started
 
-Fork the repository
+### Prerequisites
 
-Create a new branch
+This project requires the following dependencies:
 
-Make your changes
+- **Programming Language:** HTML, CSS & JavaScript
 
-Submit a pull request
+### Installation
 
-📬 Suggestions?
-Have an idea or feedback? Feel free to open an issue or start a discussion.
-Let’s make Pine City Zoo the wildest experience on the web!
+Build PineCityZoo from the source and install dependencies:
 
-© Pine City Zoo — All rights reserved
+1. **Clone the repository:**
 
+    ```sh
+    ❯ git clone https://github.com/Tsakila/PineCityZoo
+    ```
 
+2. **Navigate to the project directory:**
 
+    ```sh
+    ❯ cd PineCityZoo
+    ```
+
+3. **Install the dependencies:**
+
+echo 'INSERT-INSTALL-COMMAND-HERE'
+
+### Usage
+
+Run the project with:
+
+echo 'INSERT-RUN-COMMAND-HERE'
+
+### Testing
+
+Pinecityzoo uses the {__test_framework__} test framework. Run the test suite with:
+
+echo 'INSERT-TEST-COMMAND-HERE'
+
+---
+
+<div align="left"><a href="#top">⬆ Return</a></div>
+
+---
